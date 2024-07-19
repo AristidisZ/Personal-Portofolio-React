@@ -36,7 +36,6 @@ const Hero = () => {
                 </span>
             </p>
         </div>
-        
       </div>
       <ComputersCanvas/>
     </section>  
